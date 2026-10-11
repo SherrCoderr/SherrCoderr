@@ -4,7 +4,9 @@
 
 ### Java Backend Developer | Full-Stack Developer | Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+with+Java+%26+Spring+Boot;Solving+DSA+problems;Exploring+System+Design;Turning+ideas+into+working+software" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+with+Java+%26+Spring+Boot;Solving+DSA+problems;Exploring+System+Design;Building+useful+software" alt="Typing animation" />
+
+<br/>
 
 <a href="https://github.com/SherrCoderr">
   <img src="https://img.shields.io/badge/GitHub-SherrCoderr-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
@@ -23,7 +25,7 @@
 - 💻 Interested in backend engineering and full-stack development.
 - 🧩 Solved 450+ LeetCode problems using C++ and Java.
 - 🚀 Building applications with Spring Boot, React, and PostgreSQL.
-- 📚 Currently exploring system design and AI application development.
+- 📚 Exploring system design and AI application development.
 
 ---
 
@@ -32,10 +34,10 @@
 <div align="center">
 
 <a href="https://github.com/SherrCoderr">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SherrCoderr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SherrCoderr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 </a>
 <a href="https://github.com/SherrCoderr">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherrCoderr&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherrCoderr&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 </a>
 
 <br/><br/>
@@ -44,9 +46,7 @@
 
 <br/><br/>
 
-<a href="https://github.com/SherrCoderr">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SherrCoderr&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph"/>
-</a>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SherrCoderr&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph"/>
 
 </div>
 
@@ -100,12 +100,18 @@ A full-stack inventory platform focused on reliable stock management.
 
 `Java` `Spring Boot` `React` `PostgreSQL` `Redis` `Docker`
 
+<br/>
+
+<a href="https://github.com/SherrCoderr/smart-inventory-management-system">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Smart Inventory Repository"/>
+</a>
+
 </td>
 <td width="50%" valign="top">
 
 ### 💼 Job Portal & Resume Analyzer
 
-A job platform connecting job seekers and recruiters with resume-based job matching.
+A full-stack job portal connecting job seekers and recruiters, with resume uploads and job-resume skill matching.
 
 - Role-based authentication
 - Job posting and applications
@@ -116,7 +122,14 @@ A job platform connecting job seekers and recruiters with resume-based job match
 
 `Java` `Spring Boot` `React` `PostgreSQL` `JWT`
 
-[View Repository →](https://github.com/SherrCoderr/job-portal-resume-analyzer)
+<br/>
+
+<a href="https://github.com/SherrCoderr/job-portal-resume-analyzer">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Job Portal Repository"/>
+</a>
+<a href="https://job-portal-resume-analyzer-seven.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Job Portal Live Demo"/>
+</a>
 
 </td>
 </tr>
@@ -135,6 +148,12 @@ An expense-sharing application for managing group expenses, balances, and settle
 
 `React` `Spring Boot` `PostgreSQL` `WebSockets` `STOMP` `Flyway`
 
+<br/>
+
+<a href="https://github.com/SherrCoderr/SplitWiseX">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="SplitWiseX Repository"/>
+</a>
+
 </td>
 </tr>
 </table>
@@ -148,7 +167,6 @@ An expense-sharing application for managing group expenses, balances, and settle
 <a href="https://github.com/SherrCoderr">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-&nbsp;
 <a href="https://www.linkedin.com/in/sameersaini2102/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
