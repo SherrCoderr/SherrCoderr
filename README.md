@@ -8,10 +8,8 @@
 
 <p>
   <a href="https://github.com/SherrCoderr">
-    <img src="https://img.shields.io/badge/GitHub-SherrCoderr-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/sameersaini2102/">
-    <img src="https://img.shields.io/badge/LinkedIn-Sameer%20Saini-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
